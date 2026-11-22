@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.DS_Store
+store.db
+traces/twitter_cluster52.csv
+.venv/
+reports.md
